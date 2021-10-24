@@ -1,0 +1,4 @@
+# Stopping some unwanted code.
+*.in
+*.out
+*.pyc
